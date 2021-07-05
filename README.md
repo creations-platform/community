@@ -8,11 +8,11 @@ Welcome! This repo will have all information related to the Creations community.
 ## Engaging with the Community
 Here are a few ways you can engage with the Creations community:
 
-* Slack: [https://creations.io/community/slack](https://creations.io/community/slack)
+* Slack: [https://creations.global/community/slack](https://creations.global/community/slack)
 * Twitter: [https://twitter.com/creations](https://twitter.com/creations)
 * Google Group: [https://groups.google.com/forum/#!forum/creations](https://groups.google.com/forum/#!forum/creations)
 * StackOverflow: [https://stackoverflow.com/questions/tagged/creations](https://stackoverflow.com/questions/tagged/creations)
-* Newsletter: [https://creations.io/community/newsletter/](https://creations.io/community/newsletter/)
+* Newsletter: [https://creations.global/community/newsletter/](https://creations.global/community/newsletter/)
 
 ### Community Call
 The Creations team is now hosting monthly recorded community calls! These are interactive meetings that will explore Creations use cases. 
@@ -34,8 +34,8 @@ Here are a few ways you can contribute to the Creations community:
     * Compiler, runtime, standard library, or tooling: [creations](https://github.com/creations-platform/creations/issues) repo
     * Language specification: [creations-spec](https://github.com/creations-platform/creations-spec/issues) repo
     * Website: [creations-website](https://github.com/creations-platform/creations-website/issues) repo
-    * Security flaw: send an email to [security@creations.io](mailto:security@creations.io). For details, see the [security policy](https://creations.io/security).
-  * Publish your Creations module on [Creations Central](https://central.creations.io/) so that the whole community can benefit from your work
+    * Security flaw: send an email to [security@creations.io](mailto:security@creations.global). For details, see the [security policy](https://creations.global/security).
+  * Publish your Creations module on [Creations Central](https://central.creations.global/) so that the whole community can benefit from your work
   * Contribute to the source code to make Creations better! To be aware of the ground rules as you start, see the [Contribution Guide](https://github.com/creations-platform/creations/blob/master/CONTRIBUTING.md). Happy contributing!
   * Star the [Creations GitHub repo](https://github.com/creations-platform/creations).
 
